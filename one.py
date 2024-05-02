@@ -1,0 +1,1 @@
+print("hy this is python life")
